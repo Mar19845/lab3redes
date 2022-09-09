@@ -1,0 +1,11 @@
+{
+    "type":"names",
+    "config":{
+        "A":"prueba_lab1@alumchat.fun", 
+        "B":"prueba_lab2@alumchat.fun", 
+        "C":"prueba_lab3@alumchat.fun", 
+        "D":"prueba_lab4@alumchat.fun",
+        "E":"prueba_lab5@alumchat.fun",
+        "F":"prueba_lab6@alumchat.fun",
+    },
+}
